@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "74c79a44-023c-b40a-5290-8cf55cf113cd",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8cf1c93f-125a-fad5-9275-9f0c2c937812",
+    "website": "21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006"
+  },
+  "course_title": "Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison",
+  "course_description": "This seminar provides intensive study of exciting texts by four influential American authors. In studying paired works, we can enrich our sense of each author's distinctive methods, get a deeper sense of the development of their careers, and shake up our preconceptions about what makes an author or a work \"great.\" Students will get an opportunity to research an author in depth, as well as making broader comparisons across the syllabus.\n",
+  "department_numbers": [
+    "21L",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.512",
+  "primary_course_number": "21L.705",
+  "course_image_thumbnail": {
+    "content": "f965a9e3-4ec3-185d-4639-547ea3bc6a6b",
+    "website": "21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "ec127546-1aea-4fe4-a758-dfc9c8d98898",
+  "site_short_id": "21l.705-fall-2006",
+  "site_url_path": "courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006",
+  "title": "Course Metadata"
+}
